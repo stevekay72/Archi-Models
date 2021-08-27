@@ -1,0 +1,5 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deployment (CD) "
+    id="6e2ebfcf-46d9-46c6-9cf4-253eb1c071ba"
+    documentation="Deployment to UAT environment"/>

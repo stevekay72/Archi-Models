@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Force.com Explorer"
+    id="EAID_A035CBE4_8F73_4a9d_B980_8879152686A0">
+  <properties
+      key="drill down"
+      value="EAID_6B076B3F_3CE8_48c5_9872_6DC839C5AD7A"/>
+</archimate:ApplicationComponent>

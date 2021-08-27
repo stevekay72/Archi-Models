@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLC.2 Self Service"
+    id="EAID_337A8B90_8447_49f0_B86F_4478FBF163FA"
+    documentation="Self Service to reduce dependencies on specialist IT staff.&#xA;Being able to update project status, commit code to source control, trigger a new build and deployment to staging environments."/>

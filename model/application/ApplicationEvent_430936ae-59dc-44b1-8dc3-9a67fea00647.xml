@@ -1,0 +1,5 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deployment (CD)"
+    id="430936ae-59dc-44b1-8dc3-9a67fea00647"
+    documentation="Deployment to staging environment&#xD;&#xA;"/>

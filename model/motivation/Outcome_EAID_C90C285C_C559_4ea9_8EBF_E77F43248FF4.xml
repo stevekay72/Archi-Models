@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLC.7 Repeatable Deployments"
+    id="EAID_C90C285C_C559_4ea9_8EBF_E77F43248FF4"
+    documentation="Repeatable deployments through environments for easy promote forward and roll back"/>

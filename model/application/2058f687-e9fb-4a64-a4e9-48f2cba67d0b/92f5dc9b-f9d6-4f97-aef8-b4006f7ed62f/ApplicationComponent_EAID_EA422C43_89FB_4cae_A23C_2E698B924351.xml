@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jira (CDC)"
+    id="EAID_EA422C43_89FB_4cae_A23C_2E698B924351"
+    documentation="This is the CDC instance of Jira.  Approval given to migrate to the SaaS version (Jira Cloud) in July 2019"/>

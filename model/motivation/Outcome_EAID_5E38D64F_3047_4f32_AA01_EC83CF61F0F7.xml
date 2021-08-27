@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLC.10 Transparency"
+    id="EAID_5E38D64F_3047_4f32_AA01_EC83CF61F0F7"
+    documentation="The status of projects is available to all.  Also information regarding the performance and usage of applications and adherence to coding standards.">
+  <properties
+      key="drill down"
+      value="EAID_786039EF_C844_4a88_B42B_FE8EDD48A646"/>
+</archimate:Outcome>

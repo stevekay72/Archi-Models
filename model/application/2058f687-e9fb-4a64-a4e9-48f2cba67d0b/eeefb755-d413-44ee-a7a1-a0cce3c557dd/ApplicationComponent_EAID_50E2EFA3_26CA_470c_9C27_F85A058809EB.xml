@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Loader"
+    id="EAID_50E2EFA3_26CA_470c_9C27_F85A058809EB">
+  <properties
+      key="FCAType"
+      value="Development Tool"/>
+</archimate:ApplicationComponent>

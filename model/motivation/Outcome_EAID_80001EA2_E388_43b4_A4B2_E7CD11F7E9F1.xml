@@ -1,0 +1,9 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLC.1 Application Life Cycle"
+    id="EAID_80001EA2_E388_43b4_A4B2_E7CD11F7E9F1"
+    documentation="Defined application life cycle that everyone understands and subscribes to, from concept to design to development to testing to live">
+  <properties
+      key="drill down"
+      value="EAID_545C6720_6B18_4707_A7BF_344E46C3F6F7"/>
+</archimate:Outcome>

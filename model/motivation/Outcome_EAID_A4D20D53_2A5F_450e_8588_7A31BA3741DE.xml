@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDLC.3 Increased Confidence"
+    id="EAID_A4D20D53_2A5F_450e_8588_7A31BA3741DE"
+    documentation="Increased confidence in software/systems delivered.  This is delivered by increasing the amount of automated testing that is run every time the code is built and deployed, along with checks for code quality."/>
